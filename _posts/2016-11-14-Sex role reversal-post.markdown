@@ -3,7 +3,7 @@ layout: post
 title:  "Sex role reversal"
 date:   2016-11-14
 ---
-<img src="{{ '/assets/img/honey locust beetle.jpeg.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/beetle.jpeg.jpg' | prepend: site.baseurl }}" alt=""> 
 
 <p class="intro"><span class="dropcap">T</span>his week we had our first meeting of the Zoology EEB journal club. We’re hoping to turn this into a weekly event so that students and staff can get together to discuss the latest exciting findings in Ecology, Evolution and Behavior research. This is always a great chance to read something that may be a bit outside of your normal field of study, but that oftentimes has important implications for everyone’s work.</p>
 
