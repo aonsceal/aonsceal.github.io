@@ -3,7 +3,7 @@ layout: post
 title:  "Sex role reversal"
 date:   2016-11-14
 ---
-<img src="{{ '/assets/img/puffin.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/honey locust beetle.jpeg.jpg' | prepend: site.baseurl }}" alt=""> 
 
 <p class="intro"><span class="dropcap">T</span>his week we had our first meeting of the Zoology EEB journal club. We’re hoping to turn this into a weekly event so that students and staff can get together to discuss the latest exciting findings in Ecology, Evolution and Behavior research. This is always a great chance to read something that may be a bit outside of your normal field of study, but that oftentimes has important implications for everyone’s work.</p>
 
@@ -12,3 +12,5 @@ This week we read <a href="http://www.cell.com/current-biology/pdf/S0960-9822(16
 We found lots to like about the paper including its simple design and interesting outcome: courtship traits can evolve surprisingly quickly simply due to a manipulation of the sex ratio. We did have some confusion about why there were no corresponding effects on males (after all, the sex ratio was different for them as well), and why males were choosy about their mates even though there was no apparent fitness benefit to their choice. After a nice session a few days earlier on presentation aesthetics, we also had some discussion about how the figures could have been better designed (<a href="http://emdbolker.wikidot.com/blog:dynamite">are dynamite plots unmitigated evil?</a>). Still, everyone agreed that it was a fascinating paper and was a good fit to be published in Current Biology.
 
 Author: Michael Reichert
+
+Photo credit: Janos Bodor
