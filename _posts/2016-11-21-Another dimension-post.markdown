@@ -2,7 +2,7 @@
 layout: post
 title:  "Another dimension"
 date:   2016-11-21
-image: dimension.jpeg
+image: dimension.jpg
 ---
 
 <p class="intro"><span class="dropcap">O</span>ver the history of science, a number of high profile scientists have made the transition from physics to biology. This movement of minds has led to some of the biggest insights in biology from Erwin Schrödinger and Francis Crick on the nature of DNA to Bob May on population dynamics. The paper we focused on for our journal club this week seems to also have benefited from a physical viewpoint, this time in the form of Dr Van Savage who came equipped with a PhD in particle physics.</p>
