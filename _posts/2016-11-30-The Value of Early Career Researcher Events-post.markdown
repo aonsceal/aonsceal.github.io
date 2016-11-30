@@ -2,7 +2,7 @@
 layout: post
 title:  "The Value of Early Career Researcher Events"
 date:   2016-11-30
-image: darwin.jpeg
+image: darwin.jpg
 ---
 
 <p class="intro"><span class="dropcap">A</span>lthough they can sometimes seem repetitive, and not worth taking time out of a main conference for, Early Career Researcher (ECR) events can be incredibly useful, but not always in the way you think. Not because you’re going to get THE answer on how to be a successful scientist, but because you realise that there are many ways of achieving success, each unique to the individual researcher. By broadening your horizons from your small research group or department you are exposed to the variety of ways in which people have established themselves as academics and handled the multiple challenges faced when starting your career.</p>
