@@ -5,9 +5,9 @@ date:   2016-12-08
 image: scavenger.jpg
 ---
 
-<p class="intro"><span class="dropcap">R</span>ecently along with Adam Kane, Kevin Healy, Graeme Ruxton and Andrew Jackson I published a  <a href="http://onlinelibrary.wiley.com/doi/10.1111/ecog.02817/abstract"> review on scavenging behaviour in vertebrates through time in Ecography.</a> This paper was my first review paper as well as my first paper written from afar, without ever actually meeting with the co-authors to work on the project.</p>
+<p class="intro"><span class="dropcap">R</span>ecently along with Adam Kane, Kevin Healy, Graeme Ruxton and Andrew Jackson, I published a  <a href="http://onlinelibrary.wiley.com/doi/10.1111/ecog.02817/abstract"> review on scavenging behaviour in vertebrates through time in Ecography.</a> This paper was my first review paper as well as my first paper written from afar, without ever actually meeting with the co-authors to work on the project.</p>
 
-<h2> Difficulty </h2>  *
+<h2> Difficulty </h2>  Easy
 
 <h2> Preparation time </h2>
 5 month to submission
