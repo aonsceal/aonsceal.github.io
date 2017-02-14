@@ -5,7 +5,7 @@ date:   2017-02-14
 image: marmots.jpg
 ---
 
-<p class="intro"><span class="dropcap">T</span>his week we read <a href="https://academic.oup.com/beheco/article-abstract/27/6/1820/2453487/Beneficial-effects-of-group-size-on-oxidative"> “Beneficial Effects of Group Size on Oxidative Balance in a Wild Cooperative Breeder” recently published by Sophie Lardy et al.</a> in Behavioral Ecology. The main result of the study was that both oxidative damage (measured with TBARS) and antioxidant activity (SOD) are reduced as the groups of Alpine marmot increase in size. The authors argue that larger group sizes are beneficial during hibernation, as more individuals increase social thermoregulation and alleviates the cost of hibernation.</p>
+<p class="intro"><span class="dropcap">T</span>his week we read <a href="https://academic.oup.com/beheco/article-abstract/27/6/1820/2453487/Beneficial-effects-of-group-size-on-oxidative"> “Beneficial Effects of Group Size on Oxidative Balance in a Wild Cooperative Breeder”</a> recently published by Sophie Lardy et al. in Behavioral Ecology. The main result of the study was that both oxidative damage (measured with TBARS) and antioxidant activity (SOD) are reduced as the groups of Alpine marmot increase in size. The authors argue that larger group sizes are beneficial during hibernation, as more individuals increase social thermoregulation and alleviates the cost of hibernation.</p>
 
 One wonders how flat a line must be before you stop seeing a positive or negative (in this case) association between two variables, but in the end we decided that if p < 0.05 you don’t need to worry about it and you just move on.
 
